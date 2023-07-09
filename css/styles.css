@@ -1,6 +1,8 @@
 .section-customers {
     height: 647px;
     width: 1280px;
+    border: 1px;
+
 }
 
 .customers-title {
