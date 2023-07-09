@@ -1,6 +1,21 @@
-.section-customers {}
+.section-customers {
+    height: 647px;
+    width: 1280px;
+}
 
-.customers-title {}
+.customers-title {
+        display: flex;
+        width: 501px;
+        height: 49px;
+        flex-direction: column;
+        flex-shrink: 0;
+        color: var(--black, #2C2C2C);
+        font-family: Roboto;
+        font-size: 42px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+}
 
 .customers-tagline {}
 
