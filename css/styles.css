@@ -5,6 +5,7 @@
 
 .customers-title {
         display: flex;
+        border: 1px;
         width: 501px;
         height: 49px;
         flex-direction: column;
